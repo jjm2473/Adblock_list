@@ -1,4 +1,4 @@
 [Adblock Plus 2.0]
 btkitty.org###pop
 widgets.pinterest.com
-http://www.derily.cn/static/tool.js
+www.derily.cn/static/tool.js
