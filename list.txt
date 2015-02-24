@@ -2,3 +2,5 @@
 btkitty.org###pop
 widgets.pinterest.com
 www.derily.cn/static/tool.js
+! Black list
+www.iseeys.com
