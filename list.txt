@@ -2,5 +2,11 @@
 btkitty.org###pop
 widgets.pinterest.com
 www.derily.cn/static/tool.js
+tudou.com###gSideBar
+tudou.com##.g-sidebar
+user.qzone.qq.com##.user_coupon
 ! Black list
 www.iseeys.com
+cm.admaster.com.cn
+widgets.pinterest.com
+p-log.ykimg.com
