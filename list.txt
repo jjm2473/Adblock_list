@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 btkitty.org###pop
-btkitty.me###edfdeeecced
+btkitty.me##body>span
 widgets.pinterest.com
 www.derily.cn/static/tool.js
 tudou.com###gSideBar
