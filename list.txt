@@ -6,6 +6,7 @@ www.derily.cn/static/tool.js
 tudou.com###gSideBar
 tudou.com##.g-sidebar
 user.qzone.qq.com##.user_coupon
+m.dianyingbar.com/api/getAlimama.json
 ! Black list
 www.iseeys.com
 cm.admaster.com.cn
